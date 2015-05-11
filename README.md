@@ -3,6 +3,9 @@
 
 Created by Microsoft Corporation, 2014. Provided As-is without warranty. Trademarks mentioned here are the property of their owners.
 
+Now we can auto-deploy to Azure!
+[![Deploy to Azure](http://azuredeploy.net/deploybutton.png)](https://azuredeploy.net/)
+
 ### API functionality demonstrated in this sample
 
 The following aspects of the API are covered in this sample. You can 
